@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 28 20:56:34 2026
-
-@author: Owner
-"""
-
-
-
 import pandas as pd
 import yfinance as yf
 from datetime import datetime
