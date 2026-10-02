@@ -6,7 +6,7 @@ A Python-based portfolio tracker that pulls transaction data from Excel, fetches
 
 **For a full overview of the portfolio, click here to open the live dashboard:**
 
-### https://investment-tracker-quoc.netlify.app/dashboard.html
+### https://investment-tracker-quoc.netlify.app
 
 The dashboard gives you an interactive, at-a-glance view of:
 - Current portfolio value, total P&L, and realised vs unrealised gains
