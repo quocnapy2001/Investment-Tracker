@@ -41,8 +41,8 @@ Builds daily holdings, portfolio value, invested capital, and cost basis trackin
 **Stage 3 - Descriptive Analytics**
 Charts and summaries covering monthly cash flow, allocation, P&L, returns, and dividends.
 
-**Stage 4 - Decision Support**
-Two-sleeve optimiser producing target weights and buy orders for new cash. Monthly rolling backtest compares the optimiser against actual decisions.
+**Stage 4 - Decision Support** (Pending)
+
 
 ## Tech Stack
 
